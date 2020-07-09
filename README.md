@@ -10,7 +10,7 @@ I'm a Open source contributor as a front-end developer [@webcompat](https://gith
 
 - Twitter: https://twitter.com/magsout
 - LinkedIn: https://linkedin.com/in/magsout/
-- Instagram: https://instagram.com/magsout
+- Instagram: https://instagram.com/guillaumedemesy
 - GitHub: https://github.com/magsout
 - Website: https://magsout.com/ 
 
